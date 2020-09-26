@@ -1,0 +1,24 @@
+
+.logo{
+    width: 120.26px;
+    height: 50px;
+    filter: brightness(100);   
+}
+.form-control{
+    background-color: #e9ecef4f;
+}
+.form-inline .form-control{
+    width: 400px;
+}
+
+
+.button{
+    background-color:#d48805;
+}
+.link{
+    color:#ffffff;
+    padding-left:33px;
+}
+.link:hover{
+    text-decoration:none;
+}
